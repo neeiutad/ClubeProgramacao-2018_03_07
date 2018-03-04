@@ -2,7 +2,7 @@
 
 Preparação:
 
-1 - Transferir a package do Curses para a versão do Python a utilizar (packages serão fornecidas);
+1 - Transferir a package do Curses para a versão do Python a utilizar;
 
 2 - Instalar a package através da consola do Anaconda, com o seguinte comando na diretoria onde a package está localizada: python -m pip install curses-2.2-cp##-win32/64.whl;
 
